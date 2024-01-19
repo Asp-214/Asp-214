@@ -1,7 +1,7 @@
 # Abhinav Suresh - Exploring the Tech Universe<br>
 
 
-Hello there! 👋 Welcome to my GitHub space. I'm Abhinav Suresh, and I'm delighted to have you here. This README provides a glimpse into my world of technology, learning, and interests.
+Hello there! 👋 Welcome to my Code space. I'm Abhinav Suresh, and I'm delighted to have you here. This README provides a glimpse into my world of technology, learning, and interests.
 <br><br>
 
 ## About Me<br>
